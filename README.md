@@ -13,15 +13,12 @@ por isso é muito importante esse projeto, pois ele pode ajudar a evitar diverg�
 
 ## Imagens
 
-![/layout.png"]()
-![/layout.png"]()
+![/layout.jpg"](https://github.com/JefersonDomingos/Autocomplete-de-CEP/blob/cb99fb11a1018ebd9a6ac0fb7c0a037bc78304a7/assets/img/layout.jpg)
+![/codigo.jpg"](https://github.com/JefersonDomingos/Autocomplete-de-CEP/blob/cb99fb11a1018ebd9a6ac0fb7c0a037bc78304a7/assets/img/codigo.jpg)
 
 
 ## Você pode testar o projeto, acesse o link abaixo
-
-
-## Link
-
+https://jefersondomingos.github.io/Autocomplete-de-CEP/
 
 
 ## Autor
